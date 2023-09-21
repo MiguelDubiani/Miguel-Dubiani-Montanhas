@@ -1,0 +1,10 @@
+.omelhor {
+    color: rebeccapurple;
+    border: 2px solid black;
+    background-color: rgb(247, 247, 97);
+    align-content: flex-start;
+}
+
+.omelhor img {
+    width: 50px;
+}

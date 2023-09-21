@@ -1,0 +1,9 @@
+@import url('personal-data.css');
+@import url('list.css');
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
+body {
+    font-family: Major Mono Display;
+    background-color: rgb(86, 238, 205);
+    color: ;
+}
